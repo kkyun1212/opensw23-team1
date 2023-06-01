@@ -41,7 +41,7 @@ Ouput으로는 input으로 입력된 voice file과 동일한 voice로 입력한 
 
 1. C드라이브에 파이썬 가상환경을 requirement.txt에 맞는 3.7 이상 version으로 구동(venv 사용)
 
-2. github에서 git clone으로 가상환경 안에 opensource 불러오기
+2. github에서 git clone으로 가상환경 안에 Open Source Software 불러오기
 
 3. Window 환경에 맞는 FFMPEG 설치 사이트(https://www.gyan.dev/ffmpeg/builds/)
 
