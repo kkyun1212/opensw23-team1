@@ -39,7 +39,7 @@ Ouput으로는 input으로 입력된 voice file과 동일한 voice로 입력한 
 
 ![image](https://github.com/kkyun1212/opensw23-team1/assets/127182516/9972fc9c-9e0f-4180-b138-ffe231bf30fd)
 
-1. C드라이브에 파이썬 가상환경을 requirement.txt에 맞는 3.7 이상 version으로 구동
+1. C드라이브에 파이썬 가상환경을 requirement.txt에 맞는 3.7 이상 version으로 구동(venv 사용)
 
 2. github에서 git clone으로 가상환경 안에 opensource 불러오기
 
