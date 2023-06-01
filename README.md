@@ -19,10 +19,14 @@
 
 ## Topic Introduction
 ### Real-Time Voice Cloning
+
 이 repository는 real-time으로 작동하는 vocoder를 사용하여 speaker verification을 통해 multispeaker TTS(text-to-speech) synthesis로 transferring하는 작업을 구현한 것입니다.
+
+
 <img width="639" alt="image" src="https://github.com/kkyun1212/opensw23-team1/assets/81912226/ff660655-ce46-4892-aee6-3bf00fa51d5a">
 
 Input으로 any voice file과 원하는 text를 입력하면
+
 Ouput으로는 input으로 입력된 voice file과 동일한 voice로 입력한 text를 speech하는 audio file이 출력됩니다.
 
 ------------
