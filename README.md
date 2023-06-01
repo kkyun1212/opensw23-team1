@@ -34,12 +34,17 @@ Ouput으로는 input으로 입력된 voice file과 동일한 voice로 입력한 
 ## Installation
 
 
-https://github.com/kkyun1212/opensw23-team1/assets/127182516/805f22e7-9524-451f-ab4f-040ec8450fb9
 
 ------------
 
 ## Results
-input에 대한 output입니다.
+
+input voice file입니다.
+
+https://github.com/kkyun1212/opensw23-team1/assets/127182516/805f22e7-9524-451f-ab4f-040ec8450fb9
+
+
+input에 대한 output voice file입니다.
 
 https://github.com/kkyun1212/opensw23-team1/assets/127182516/67c4df93-4670-45c3-9d5f-6222f2672e4d
 
