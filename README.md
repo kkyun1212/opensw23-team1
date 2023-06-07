@@ -37,6 +37,22 @@ Ouput으로는 input으로 입력된 voice file과 동일한 voice로 입력한 
 
 <python pip version: 22. 0. 4>
 
+<python 가상환경 구동 방법>
+
++ 프로젝트 진행 및 관리를 위하여 기존 python 환경과 격리된 가상환경을 venv를 활용하여 생성
++ Python 3.5 버전 이후부터는 venv가 python 표준 라이브러리에 내장되어 있기 때문에 따로 설치할 필요 없음
+
+1. cmd에서 다음과 같이 가상환경을 생성한
+![image](https://github.com/kkyun1212/opensw23-team1/assets/81912226/03f2d937-f6c2-4f84-b405-f4e77850180e)
++ 위 코드가 제대로 실행되었다면 생성한 가상환경 이름으로 폴더가 생성되었을 것이다 (본 프로젝트에서는 myenv로 설정)
+
+2. 가상환경 활성화를 위해 다음과 같이 입력한다
+![image](https://github.com/kkyun1212/opensw23-team1/assets/81912226/108b20bd-8bcd-4705-9690-aa80c560a727)
++ (본 프로젝트에서는 C:\venv>myenv\Scripts\activate로 설정)
++ deactivate 명령으로 가상환경 비활성화 가능
+
+<가상환경 내에서 오픈소스 실행>
+
 ![image](https://github.com/kkyun1212/opensw23-team1/assets/127182516/9972fc9c-9e0f-4180-b138-ffe231bf30fd)
 
 1. C드라이브에 파이썬 가상환경을 requirement.txt에 맞는 3.7 이상 version으로 구동(venv 사용)
