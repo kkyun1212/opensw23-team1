@@ -97,7 +97,10 @@ Ouput으로는 input으로 입력된 voice file과 동일한 voice로 입력한 
 
 input voice file입니다.
 
-https://github.com/kkyun1212/opensw23-team1/assets/127182516/805f22e7-9524-451f-ab4f-040ec8450fb9
+
+
+https://github.com/kkyun1212/opensw23-team1/assets/107661019/7483d76a-2344-4c3a-a642-eb15a6948686
+
 
 
 input에 대한 output voice file입니다.
