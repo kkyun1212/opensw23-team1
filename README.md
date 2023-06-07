@@ -43,9 +43,9 @@ Ouput으로는 input으로 입력된 voice file과 동일한 voice로 입력한 
 
 2. github에서 git clone으로 가상환경 안에 Open Source Software 불러오기
 
-3. Window 환경에 맞는 FFMPEG 설치 사이트(https://www.gyan.dev/ffmpeg/builds/)
+3. Window 환경에 맞는 FFMPEG 설치 사이트 [ffmpeg 설치 사이 링크](https://www.gyan.dev/ffmpeg/builds/)
 
-->FFMPEG 파일(https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.7z) C드라이브에 압축 풀고 설치
+->FFMPEG 파일 [ffmpeg설치](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.7z) C드라이브에 압축 풀고 설치
 
 시스템 환경 변수 편집-> 환경 변수 -> Path에서 새로 C:\ffnpng\bin 경로 추가(이건 압축 파일 풀때 실수로 ffnpng로 저장함. ffnpng는 파일 이름임 헷갈리지 마세요)
 
@@ -61,7 +61,7 @@ Ouput으로는 input으로 입력된 voice file과 동일한 voice로 입력한 
 
 위와 같이 python 가상환경으로 이동할 수 있다.
 
-5.PyTorch 사이트(https://pytorch.org/get-started/locally/)에서 Pytorch 최신 버전 Command 복사하여 가상환경에 설치
+5.PyTorch 사이트 [Pytorch 사이트 링크](https://pytorch.org/get-started/locally/)에서 Pytorch 최신 버전 Command 복사하여 가상환경에 설치
 
 ![image](https://github.com/kkyun1212/opensw23-team1/assets/127182516/ab3b595d-a48e-46da-9d83-11c7cd27f413)
 
@@ -102,7 +102,9 @@ https://github.com/kkyun1212/opensw23-team1/assets/127182516/805f22e7-9524-451f-
 
 input에 대한 output voice file입니다.
 
-https://github.com/kkyun1212/opensw23-team1/assets/127182516/67c4df93-4670-45c3-9d5f-6222f2672e4d
+
+https://github.com/kkyun1212/opensw23-team1/assets/107661019/9bf80e21-a367-4a00-a812-dea94132fb3f
+
 
 ------------
 
