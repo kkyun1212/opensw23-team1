@@ -249,6 +249,7 @@ https://github.com/kkyun1212/opensw23-team1/assets/81912226/6807e3b6-8e03-457a-b
 
 ![image](https://github.com/kkyun1212/opensw23-team1/assets/81912226/6c8c0bf7-ce4a-4578-b338-090446314d24)
 
+원은 input을 x는 output을 나타냅니다.
 같은 목소리가 각각 모여있고 output도 dataset 주변에 생성됨을 볼 수 있습니다.
 
 ------------
