@@ -111,18 +111,81 @@ Ouput으로는 input으로 입력된 voice file과 동일한 voice로 입력한 
 
 ## Results
 
-input voice file입니다.
+
+저희 팀이 생성한 dataset 파일입니다. 두 명의 목소리를 sample file로 녹음하였습니다.
+
+
+첫 번째 dataset input file은 다음 5개의 파일입니다.
+
+
+https://github.com/kkyun1212/opensw23-team1/assets/81912226/4d575307-634f-4f97-b1c6-04c366e7dcdc
 
 
 
-https://github.com/kkyun1212/opensw23-team1/assets/107661019/7483d76a-2344-4c3a-a642-eb15a6948686
+https://github.com/kkyun1212/opensw23-team1/assets/81912226/0a8087ee-2c05-409f-85ee-c3bb4ac1e110
 
 
 
-input에 대한 output voice file입니다.
+https://github.com/kkyun1212/opensw23-team1/assets/81912226/a610462e-23d9-453c-908c-a2b20f15b9cc
 
 
-https://github.com/kkyun1212/opensw23-team1/assets/107661019/9bf80e21-a367-4a00-a812-dea94132fb3f
+
+https://github.com/kkyun1212/opensw23-team1/assets/81912226/53c7f974-05e2-4ed9-b480-29f57cca9886
+
+
+
+https://github.com/kkyun1212/opensw23-team1/assets/81912226/2a38110f-1f95-44a5-8b65-207211220b43
+
+
+
+https://github.com/kkyun1212/opensw23-team1/assets/81912226/e64522ae-7d16-4630-9654-b36342b38268
+
+
+첫 번째 dataset에 대한 output 파일입니다.
+
+
+https://github.com/kkyun1212/opensw23-team1/assets/81912226/ee2b2d52-41c0-4fa6-b8ef-3cef85d109bf
+
+
+
+
+두 번째 dataset input file은 다음과 같습니다.
+
+
+https://github.com/kkyun1212/opensw23-team1/assets/81912226/a9d12dad-16e9-4856-880e-f22200272db7
+
+
+
+https://github.com/kkyun1212/opensw23-team1/assets/81912226/64e6fedb-4f69-44fe-bfa6-160ab10b1c11
+
+
+
+https://github.com/kkyun1212/opensw23-team1/assets/81912226/5362b006-b00c-4e7c-b4cb-cf6342c0fc74
+
+
+
+https://github.com/kkyun1212/opensw23-team1/assets/81912226/c57b543c-91ce-4ce4-ab09-d6b37c00cc05
+
+
+
+https://github.com/kkyun1212/opensw23-team1/assets/81912226/9bac91cd-02e4-4f5b-8e00-5a2eeb481909
+
+
+
+https://github.com/kkyun1212/opensw23-team1/assets/81912226/0269e901-63ea-4773-98b1-63570550a462
+
+
+두 번째 dataset에 대한 output 파일입니다.
+
+
+https://github.com/kkyun1212/opensw23-team1/assets/81912226/4cf8cd77-6d3c-4257-9f97-27102a0080cb
+
+
+
+
+두 목소리를 synthesis한 결과 graph입니다.
+
+![image](https://github.com/kkyun1212/opensw23-team1/assets/81912226/6c8c0bf7-ce4a-4578-b338-090446314d24)
 
 
 ------------
