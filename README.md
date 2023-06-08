@@ -39,7 +39,7 @@ Ouput으로는 input으로 입력된 voice file과 동일한 voice로 입력한 
 
 
 
-<python 가상환경 구동 방법>
+###<python 가상환경 구동 방법>
 
 + 프로젝트 진행 및 관리를 위하여 기존 python 환경과 격리된 가상환경을 venv를 활용하여 생성
 + Python 3.5 버전 이후부터는 venv가 python 표준 라이브러리에 내장되어 있기 때문에 따로 설치할 필요 없음
@@ -53,7 +53,7 @@ Ouput으로는 input으로 입력된 voice file과 동일한 voice로 입력한 
 + (본 프로젝트에서는 C:\venv>myenv\Scripts\activate로 설정)
 + deactivate 명령으로 가상환경 비활성화 가능
 
-<가상환경 내에서 오픈소스 실행>
+###<가상환경 내에서 오픈소스 실행>
 
 ![image](https://github.com/kkyun1212/opensw23-team1/assets/127182516/9972fc9c-9e0f-4180-b138-ffe231bf30fd)
 
@@ -106,7 +106,7 @@ Ouput으로는 input으로 입력된 voice file과 동일한 voice로 입력한 
 ![image](https://github.com/kkyun1212/opensw23-team1/assets/127182516/9832d2b5-f97e-4258-9b55-021d8968ffe6)
 
 
-<python code로 실행 process>
+###<running Process for the Python code>
 
 ![image](https://github.com/kkyun1212/opensw23-team1/assets/81912226/04ab3ec0-50b0-43b6-ae86-1eadcb33a827)
 
