@@ -145,33 +145,38 @@ Ouput으로는 input으로 입력된 voice file과 동일한 voice로 입력한 
 첫 번째 dataset input file은 다음 5개의 파일입니다.
 
 
-https://github.com/kkyun1212/opensw23-team1/assets/81912226/4d575307-634f-4f97-b1c6-04c366e7dcdc
+
+https://github.com/kkyun1212/opensw23-team1/assets/81912226/0448c587-61ee-4c19-a120-f9fa360ce8ae
 
 
 
-https://github.com/kkyun1212/opensw23-team1/assets/81912226/0a8087ee-2c05-409f-85ee-c3bb4ac1e110
+https://github.com/kkyun1212/opensw23-team1/assets/81912226/300e2623-e267-4f21-aabe-d5043227eb56
 
 
 
-https://github.com/kkyun1212/opensw23-team1/assets/81912226/a610462e-23d9-453c-908c-a2b20f15b9cc
+https://github.com/kkyun1212/opensw23-team1/assets/81912226/814ba6ca-d7a8-4990-a579-039a1846139c
 
 
 
-https://github.com/kkyun1212/opensw23-team1/assets/81912226/53c7f974-05e2-4ed9-b480-29f57cca9886
+https://github.com/kkyun1212/opensw23-team1/assets/81912226/59b250d3-e561-4027-b803-a6d99067013a
 
 
 
-https://github.com/kkyun1212/opensw23-team1/assets/81912226/2a38110f-1f95-44a5-8b65-207211220b43
+https://github.com/kkyun1212/opensw23-team1/assets/81912226/23a03a6c-9d45-4ec9-a53e-420a23423be3
 
 
 
-https://github.com/kkyun1212/opensw23-team1/assets/81912226/e64522ae-7d16-4630-9654-b36342b38268
+https://github.com/kkyun1212/opensw23-team1/assets/81912226/e3f6b70f-cba8-4e40-a9d7-7afa96208922
+
+
 
 
 첫 번째 dataset에 대한 output 파일입니다.
 
 
-https://github.com/kkyun1212/opensw23-team1/assets/81912226/ee2b2d52-41c0-4fa6-b8ef-3cef85d109bf
+
+https://github.com/kkyun1212/opensw23-team1/assets/81912226/ee00b359-5aeb-424b-a3d4-86775de2b38a
+
 
 
 
@@ -179,33 +184,38 @@ https://github.com/kkyun1212/opensw23-team1/assets/81912226/ee2b2d52-41c0-4fa6-b
 두 번째 dataset input file은 다음과 같습니다.
 
 
-https://github.com/kkyun1212/opensw23-team1/assets/81912226/a9d12dad-16e9-4856-880e-f22200272db7
+https://github.com/kkyun1212/opensw23-team1/assets/81912226/3b09249a-0257-4c15-8ec8-e1a4125aab66
 
 
 
-https://github.com/kkyun1212/opensw23-team1/assets/81912226/64e6fedb-4f69-44fe-bfa6-160ab10b1c11
+https://github.com/kkyun1212/opensw23-team1/assets/81912226/96354cc1-32b5-453e-8715-3deccf64cd67
 
 
 
-https://github.com/kkyun1212/opensw23-team1/assets/81912226/5362b006-b00c-4e7c-b4cb-cf6342c0fc74
+https://github.com/kkyun1212/opensw23-team1/assets/81912226/5ba569ed-6bb5-4ad4-935d-cec9d19b3ab8
 
 
 
-https://github.com/kkyun1212/opensw23-team1/assets/81912226/c57b543c-91ce-4ce4-ab09-d6b37c00cc05
+https://github.com/kkyun1212/opensw23-team1/assets/81912226/c0d079be-a19e-4a1a-afdd-c058b4cd2cec
 
 
 
-https://github.com/kkyun1212/opensw23-team1/assets/81912226/9bac91cd-02e4-4f5b-8e00-5a2eeb481909
+https://github.com/kkyun1212/opensw23-team1/assets/81912226/b0cd746a-df77-4649-b9b1-b805c64e6b9c
 
 
 
-https://github.com/kkyun1212/opensw23-team1/assets/81912226/0269e901-63ea-4773-98b1-63570550a462
+https://github.com/kkyun1212/opensw23-team1/assets/81912226/6ec4cfde-816b-405f-8b87-5c0f84530676
+
+
 
 
 두 번째 dataset에 대한 output 파일입니다.
 
 
-https://github.com/kkyun1212/opensw23-team1/assets/81912226/4cf8cd77-6d3c-4257-9f97-27102a0080cb
+
+https://github.com/kkyun1212/opensw23-team1/assets/81912226/6807e3b6-8e03-457a-ba52-70153a1d8c71
+
+
 
 
 
