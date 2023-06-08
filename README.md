@@ -196,4 +196,4 @@ https://github.com/kkyun1212/opensw23-team1/assets/81912226/4cf8cd77-6d3c-4257-9
 
 
 # Presentation
-[[Real-TIme-Voice-Cloning_Presentation.pdf](https://github.com/kkyun1212/opensw23-team1/files/11684700/Real-TIme-Voice-Cloning_Presentation.pdf)](https://www.notion.so/Real-Time-Voice-Cloning-095f7b8d07b841a199ebc1cfab69a1a4)
+https://curly-motorcycle-5f2.notion.site/Real-Time-Voice-Cloning-095f7b8d07b841a199ebc1cfab69a1a4?pvs=4
