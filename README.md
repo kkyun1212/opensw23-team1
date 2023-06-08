@@ -133,3 +133,4 @@ https://github.com/kkyun1212/opensw23-team1/assets/107661019/9bf80e21-a367-4a00-
 
 
 # Presentation
+[Real-TIme-Voice-Cloning_Presentation.pdf](https://github.com/kkyun1212/opensw23-team1/files/11684700/Real-TIme-Voice-Cloning_Presentation.pdf)
