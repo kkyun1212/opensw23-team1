@@ -37,6 +37,8 @@ Ouput으로는 input으로 입력된 voice file과 동일한 voice로 입력한 
 
 <python pip version: 22. 0. 4>
 
+
+
 <python 가상환경 구동 방법>
 
 + 프로젝트 진행 및 관리를 위하여 기존 python 환경과 격리된 가상환경을 venv를 활용하여 생성
@@ -103,10 +105,35 @@ Ouput으로는 input으로 입력된 voice file과 동일한 voice로 입력한 
 
 ![image](https://github.com/kkyun1212/opensw23-team1/assets/127182516/9832d2b5-f97e-4258-9b55-021d8968ffe6)
 
-(사용 방법: 유튜브 영상참고 [Real-Time Voice Cloning Toolbox - YouTube](https://www.youtube.com/watch?v=-O_hYhToKoA))
 
+<Running process for the python code>
 
+![image](https://github.com/kkyun1212/opensw23-team1/assets/81912226/04ab3ec0-50b0-43b6-ae86-1eadcb33a827)
 
+1. 먼저 위의 실행 방법을 통해 demo_toolbox.py 코드를 실행하면 사진과 같이 python 프로그램이 실행된다.
+이때 Browse는 파일을 불러오는 버튼이고, Record는 마이크로 직접 녹음하는 버튼, Play와 Stop은 불러온
+파일이나 녹음된 파일을 재생하고 중지하는 버튼이다. 또한 Export 버튼은 Voice-Cloning을 통해 생성된
+파일을 저장하는 버튼이다.
+    
+또한 Synthesize and vocode는 파이썬 소스코드를 실행하여 불러온 녹음 파일을 clone된 목소리로 변환하고    text를 읽게 하는 버튼이다. 이때 text의 길이나 언어는 자유롭게 설정할 수 있으나, 본 프로젝트에서는 accuracy를 높이기 위하여 English로 실행하였다. Synthesize only와 Vocode only 버튼을 이용하여 Synthesize와 vocode중 하나만 실행할 수도 있다.
+
+    
+![image](https://github.com/kkyun1212/opensw23-team1/assets/81912226/cb285272-4ae3-4d4a-9f98-cc990dd5cfe8)
+
+2. Browse를 클릭하여 파일에서 음성 녹음 파일을 선택한 후 Play를 클릭하여 해당 파일을 실행해보고 올바른 파일을 불러왔는지 확인한다. 이후 Synthesize and vocode를 클릭하여 파이썬 프로그램을 실행한다.
+    
+![image](https://github.com/kkyun1212/opensw23-team1/assets/81912226/ca30ccba-7faf-4407-846a-0bddddc419eb)
+(실행 중인 사진)
+    
+3. 실행이 완료되면 clone된 목소리로 text를 읽는 음성파일이 생성된다. Export 버튼을 클릭하여 파일에 Voice-Cloning된 녹음 파일을 저장한다.
+    
+![image](https://github.com/kkyun1212/opensw23-team1/assets/81912226/ed1fa141-b22a-4b25-a874-2806ebe7e44f)
+
+4개 이상의 dataset이 생성되면 다음과 같이 왼쪽에 Sample과 Voice-Cloning된 녹음 파일의 정확도를 나타내는 graph가 생긴다. 프로그램이 잘 실행되었다면 시행을 계속할 수록 Cluster가 한 점으로 모이게 된다.
+    
+    
+(참고: Real-Time Voice Cloning Toolbox - YouTube)
+    
 ------------
 
 ## Results
@@ -183,14 +210,13 @@ https://github.com/kkyun1212/opensw23-team1/assets/81912226/4cf8cd77-6d3c-4257-9
 
 
 
-두 목소리를 synthesis한 결과 graph입니다.
-
-![image](https://github.com/kkyun1212/opensw23-team1/assets/81912226/6c8c0bf7-ce4a-4578-b338-090446314d24)
-
-
 ------------
 
 ## Analysis/Visualization
+    
+두 목소리를 synthesis한 결과 graph입니다.
+
+![image](https://github.com/kkyun1212/opensw23-team1/assets/81912226/6c8c0bf7-ce4a-4578-b338-090446314d24)
 
 ------------
 
