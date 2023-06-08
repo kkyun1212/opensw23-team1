@@ -142,7 +142,7 @@ Ouput으로는 input으로 입력된 voice file과 동일한 voice로 입력한 
 저희 팀이 생성한 dataset 파일입니다. 두 명의 목소리를 sample file로 녹음하였습니다.
 
 
-첫 번째 dataset input file은 다음 5개의 파일입니다.
+첫 번째 dataset input file은 다음 6개의 파일입니다.
 
 
 
@@ -223,10 +223,33 @@ https://github.com/kkyun1212/opensw23-team1/assets/81912226/6807e3b6-8e03-457a-b
 ------------
 
 ## Analysis/Visualization
+
+### mel-spectrogram 에 대한 간단한 설명
+
+가로축은 시간, 세로축은 주파수, 색상은 데시벨을 나타냄
+
+→ 목소리와 오디오 파일을 분석하는데 이용
+
+첫 번째 dataset input file에 대한 mel-spectrogram 입니다
+
+![image](https://github.com/kkyun1212/opensw23-team1/assets/127182516/947d1815-7e9a-461f-bc11-8d8cd2715d5e)
+
+![image](https://github.com/kkyun1212/opensw23-team1/assets/127182516/3a58a8b6-784a-4ab6-ad65-a2311db23e86)
+
+![image](https://github.com/kkyun1212/opensw23-team1/assets/127182516/d1bf474f-ce5d-4995-aad3-6432323385a6)
+
+![image](https://github.com/kkyun1212/opensw23-team1/assets/127182516/82e24100-757c-433a-b006-e8149caa9d22)
+
+![image](https://github.com/kkyun1212/opensw23-team1/assets/127182516/093474d7-6d30-4583-b705-2e7ce9d3af2b)
+
+![image](https://github.com/kkyun1212/opensw23-team1/assets/127182516/7665fd1d-51ca-4690-a469-2c2b3f46008f)
+
     
-두 목소리를 synthesis한 결과 graph입니다.
+두 dataset을 synthesis한 결과 graph입니다.
 
 ![image](https://github.com/kkyun1212/opensw23-team1/assets/81912226/6c8c0bf7-ce4a-4578-b338-090446314d24)
+
+같은 목소리가 각각 모여있고 output도 dataset 주변에 생성됨을 볼 수 있습니다.
 
 ------------
 
