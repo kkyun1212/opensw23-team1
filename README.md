@@ -106,7 +106,7 @@ Ouput으로는 input으로 입력된 voice file과 동일한 voice로 입력한 
 ![image](https://github.com/kkyun1212/opensw23-team1/assets/127182516/9832d2b5-f97e-4258-9b55-021d8968ffe6)
 
 
-<Running process for the python code>
+<python code로 실행 process>
 
 ![image](https://github.com/kkyun1212/opensw23-team1/assets/81912226/04ab3ec0-50b0-43b6-ae86-1eadcb33a827)
 
@@ -132,7 +132,7 @@ Ouput으로는 input으로 입력된 voice file과 동일한 voice로 입력한 
 4개 이상의 dataset이 생성되면 다음과 같이 왼쪽에 Sample과 Voice-Cloning된 녹음 파일의 정확도를 나타내는 graph가 생긴다. 프로그램이 잘 실행되었다면 시행을 계속할 수록 Cluster가 한 점으로 모이게 된다.
     
     
-(참고: Real-Time Voice Cloning Toolbox - YouTube)
+(참고: Real-Time Voice Cloning Toolbox - YouTube https://www.youtube.com/watch?v=-O_hYhToKoA)
     
 ------------
 
